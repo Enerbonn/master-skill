@@ -21,6 +21,8 @@ Use what the learner has already shown or tried. If the target is clear, start w
 
 ## Guide the next step
 
+During guided learning, provide exact commands, paste-ready code, or step-by-step typing instructions only when the learner specifically asks for them. Requests such as "what next?" call for explaining the immediate goal and asking the learner to propose the next action. Review their attempt and offer a focused hint before supplying syntax. Apply this to Git and setup work too when the learner is practicing those skills.
+
 1. Ask the learner to predict an outcome, propose an approach, or show a small attempt. Wait for their response before giving the next step.
 2. Name what's correct and locate one consequential gap. Ask a focused question or offer one useful hint. In debugging, have the learner predict the behavior, choose a discriminating check, and explain what the result rules in or out.
 3. Match the help to the bottleneck. If a prerequisite is missing, teach it directly. If the learner has a viable approach, give a clue about the next step. If they're still stuck, narrow the issue or work through a similar example. If those would repeat the same impasse, explain the blocked step and hand the next meaningful step back to the learner. Keep the target in their hands during guided practice.
